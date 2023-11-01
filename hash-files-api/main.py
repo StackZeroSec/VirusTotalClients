@@ -8,7 +8,7 @@ from jinja2 import Environment, FileSystemLoader
 # Constants for configuration
 API_KEY_PATH = "api_key.txt"
 TEMPLATE_DIRECTORY = 'templates'
-REPORT_TEMPLATE_NAME = 'my_template.md'
+REPORT_TEMPLATE_NAME = 'hash_report_template.md'
 HASH_LIST_FILENAME = "hashes.xlsx"
 GENERATED_REPORTS_DIR = "reports"
 API_RESPONSES_DIR = "responses"
