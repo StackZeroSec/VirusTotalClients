@@ -7,7 +7,7 @@ Welcome to the VirusTotal API Examples repository! This collection is dedicated 
 ### VT Hash File API
 
 - **Description:** This script automates the process of scanning multiple files, calculating their hashes, and then querying VirusTotal for potential threats.
-- **Link to Detailed Article:** [StackZero - VT Hash File API](https://www.stackzero.net/vt-hash-file-api)
+- **Link to Detailed Article:** [StackZero - VT Hash File API](https://www.stackzero.net/virustotal-api-python-tutorial/)
 
 ## Future Additions
 
